@@ -1,0 +1,37 @@
+C:\Users\goulo\source\repos\Discord Custom Profile\bin\Debug\Discord Custom Profile.exe.config
+C:\Users\goulo\source\repos\Discord Custom Profile\bin\Debug\Discord Custom Profile.exe
+C:\Users\goulo\source\repos\Discord Custom Profile\bin\Debug\Discord Custom Profile.pdb
+C:\Users\goulo\source\repos\Discord Custom Profile\bin\Debug\DiscordRPC.dll
+C:\Users\goulo\source\repos\Discord Custom Profile\bin\Debug\Newtonsoft.Json.dll
+C:\Users\goulo\source\repos\Discord Custom Profile\bin\Debug\DiscordRPC.pdb
+C:\Users\goulo\source\repos\Discord Custom Profile\bin\Debug\DiscordRPC.xml
+C:\Users\goulo\source\repos\Discord Custom Profile\bin\Debug\Newtonsoft.Json.xml
+C:\Users\goulo\source\repos\Discord Custom Profile\obj\Debug\Discord Custom Profile.csproj.AssemblyReference.cache
+C:\Users\goulo\source\repos\Discord Custom Profile\obj\Debug\Discord Custom Profile.csproj.SuggestedBindingRedirects.cache
+C:\Users\goulo\source\repos\Discord Custom Profile\obj\Debug\Discord_Custom_Profile.Form1.resources
+C:\Users\goulo\source\repos\Discord Custom Profile\obj\Debug\Discord_Custom_Profile.Properties.Resources.resources
+C:\Users\goulo\source\repos\Discord Custom Profile\obj\Debug\Discord Custom Profile.csproj.GenerateResource.cache
+C:\Users\goulo\source\repos\Discord Custom Profile\obj\Debug\Discord Custom Profile.csproj.CoreCompileInputs.cache
+C:\Users\goulo\source\repos\Discord Custom Profile\obj\Debug\Discord Custom Profile.csproj.CopyComplete
+C:\Users\goulo\source\repos\Discord Custom Profile\obj\Debug\Discord Custom Profile.exe
+C:\Users\goulo\source\repos\Discord Custom Profile\obj\Debug\Discord Custom Profile.pdb
+C:\Users\goulo\source\repos\Discord Custom Profile\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\goulo\source\repos\Discord Custom Profile\bin\Debug\System.Buffers.dll
+C:\Users\goulo\source\repos\Discord Custom Profile\bin\Debug\System.Memory.dll
+C:\Users\goulo\source\repos\Discord Custom Profile\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\goulo\source\repos\Discord Custom Profile\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\goulo\source\repos\Discord Custom Profile\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\goulo\source\repos\Discord Custom Profile\bin\Debug\System.Text.Json.dll
+C:\Users\goulo\source\repos\Discord Custom Profile\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\goulo\source\repos\Discord Custom Profile\bin\Debug\System.ValueTuple.dll
+C:\Users\goulo\source\repos\Discord Custom Profile\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\goulo\source\repos\Discord Custom Profile\bin\Debug\System.Buffers.xml
+C:\Users\goulo\source\repos\Discord Custom Profile\bin\Debug\System.Memory.xml
+C:\Users\goulo\source\repos\Discord Custom Profile\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\goulo\source\repos\Discord Custom Profile\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\goulo\source\repos\Discord Custom Profile\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\goulo\source\repos\Discord Custom Profile\bin\Debug\System.Text.Json.xml
+C:\Users\goulo\source\repos\Discord Custom Profile\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\goulo\source\repos\Discord Custom Profile\bin\Debug\System.ValueTuple.xml
+C:\Users\goulo\source\repos\Discord Custom Profile\obj\Debug\Discord_Custom_Profile.Form2.resources
+C:\Users\goulo\source\repos\Discord Custom Profile\obj\Debug\Discord_Custom_Profile.formUrlInput.resources
